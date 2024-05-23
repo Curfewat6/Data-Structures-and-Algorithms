@@ -1,0 +1,4 @@
+Dominant Term   Big-Oh complexity
+0.000001n^3     O(n^3)
+0.01n^1.5       O(n^1.5)
+log2n^2         O(logn^2)
